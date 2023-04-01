@@ -1,0 +1,10 @@
+Enter a number: 
+Your number is 55
+Enter a number: 
+Your number is 44
+Enter a number: 
+Your number is 15
+Enter a number: 
+Your number is 444
+Enter a number: 
+Your number is 5552
