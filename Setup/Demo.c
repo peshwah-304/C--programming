@@ -2,8 +2,8 @@
 int main(){
     int j;
     for(int i=0;i<5;i++){
-    printf("Enter a number: \n");
+    printf("Enter a numberrr: \n");
     scanf("%d",&j);
-    printf("Your number is %d\n",j);
+    printf("Your numberrrrr is %d\n",j);
     }
 }
